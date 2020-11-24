@@ -35,7 +35,8 @@
     -   6. start the application with `npm start`
     -   7. go to http://localhost:8080 to use the application
 
-## FILES
+## FILES 
+	Note: Please download the readme to view the files and directory map better
 .
         ├── Develop
         │   ├── config
