@@ -1,5 +1,3 @@
-# reverseEngineeringCode
-
 # UNIT 14 Sequelize Homework: Reverse Engineering 
 
 ## USER STORY 
